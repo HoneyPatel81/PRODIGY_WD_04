@@ -1,6 +1,6 @@
 Welcome to my personal portfolio website! Here, you'll find a showcase of my work, skills, and projects. I’ve designed this site to be easy to navigate, with a clean and modern look. You can explore my latest projects, learn about my background, and see how I can help you with your next big idea.
 
--------------------------------------------------------------OUTPUT-------------------------------------------------------
+RESULT :
 
 ![Screenshot (32)](https://github.com/HoneyPatel81/PRODIGY_WD_04/assets/119737940/7ae32746-24dd-4a8f-8d0d-3fda05340ad3)
 
